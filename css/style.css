@@ -1,0 +1,22 @@
+/* reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* generics */
+.body {
+    font-family: ;;
+}
+
+.header {
+    background-color: #3161e0;
+}
+
+/* utilities */
+
+.conteiner {
+    max-width: 1200px;
+    margin: 0 auto;
+}
