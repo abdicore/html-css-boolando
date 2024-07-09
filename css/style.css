@@ -49,7 +49,7 @@ img {
 .row {
     display: flex;
     flex-direction: row;
-    gap: 10;
+    gap: 10px;
 }
 
 .col {
@@ -58,4 +58,15 @@ img {
 
 .card {
     position: relative;
+}
+
+.row .margintop10px{
+    margin-top: 10px;
+}
+
+.text {
+    margin-bottom: 50px;
+    line-height:120%
+
+    
 }
