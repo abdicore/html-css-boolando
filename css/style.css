@@ -11,7 +11,18 @@
 
 header {
     background-color: #ff6900;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    box-shadow: 0 0 10px #333;
 }
+
+main {
+    padding: 100px 0;
+}
+
+
 h1 {
     color: blueviolet;
 }
