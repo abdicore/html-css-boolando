@@ -7,11 +7,13 @@
 
 /* generics */
 .body {
-    font-family: ;;
 }
 
-.header {
-    background-color: #3161e0;
+header {
+    background-color: #ff6900;
+}
+h1 {
+    color: blueviolet;
 }
 
 /* utilities */
@@ -20,3 +22,10 @@
     max-width: 1200px;
     margin: 0 auto;
 }
+
+
+/* header */
+.navbar {
+    height: 80px;
+}
+
